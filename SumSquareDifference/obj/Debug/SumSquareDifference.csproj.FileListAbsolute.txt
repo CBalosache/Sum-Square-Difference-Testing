@@ -1,0 +1,12 @@
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\SumSquareDifferenceTest\SumSquareDifference\bin\Debug\SumSquareDifference.dll
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\SumSquareDifferenceTest\SumSquareDifference\bin\Debug\SumSquareDifference.pdb
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\SumSquareDifferenceTest\SumSquareDifference\obj\Debug\SumSquareDifference.csprojAssemblyReference.cache
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\SumSquareDifferenceTest\SumSquareDifference\obj\Debug\SumSquareDifference.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\SumSquareDifferenceTest\SumSquareDifference\obj\Debug\SumSquareDifference.dll
+C:\Users\Cosmin Balosache\source\repos\Engineering40\Wee8\Day4\SumSquareDifferenceTest\SumSquareDifference\obj\Debug\SumSquareDifference.pdb
+C:\Users\Cosmin Balosache\source\repos\SumSquareDifferenceTest\SumSquareDifference\bin\Debug\SumSquareDifference.dll
+C:\Users\Cosmin Balosache\source\repos\SumSquareDifferenceTest\SumSquareDifference\bin\Debug\SumSquareDifference.pdb
+C:\Users\Cosmin Balosache\source\repos\SumSquareDifferenceTest\SumSquareDifference\obj\Debug\SumSquareDifference.csprojAssemblyReference.cache
+C:\Users\Cosmin Balosache\source\repos\SumSquareDifferenceTest\SumSquareDifference\obj\Debug\SumSquareDifference.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin Balosache\source\repos\SumSquareDifferenceTest\SumSquareDifference\obj\Debug\SumSquareDifference.dll
+C:\Users\Cosmin Balosache\source\repos\SumSquareDifferenceTest\SumSquareDifference\obj\Debug\SumSquareDifference.pdb
